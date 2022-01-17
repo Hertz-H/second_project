@@ -288,7 +288,7 @@ overflow: hidden;
         
     }
     .lower_header_section {
-
+       
         flex-direction:column;
         align-items: center;
     }
@@ -334,4 +334,5 @@ overflow: hidden;
         width:40%;
     }
 }
+
 
